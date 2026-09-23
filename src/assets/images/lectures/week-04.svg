@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="A five-line musical staff carrying only two small notes and one large rest glyph, where the rest takes up far more of the bar than the sounded notes do.">
+  <title>Silence, notated</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The rest is written and counted like any note; here it outweighs the sound. -->
+  <g stroke="#23201b" stroke-width="2">
+    <line x1="120" y1="150" x2="680" y2="150"/>
+    <line x1="120" y1="180" x2="680" y2="180"/>
+    <line x1="120" y1="210" x2="680" y2="210"/>
+    <line x1="120" y1="240" x2="680" y2="240"/>
+    <line x1="120" y1="270" x2="680" y2="270"/>
+  </g>
+  <ellipse cx="200" cy="240" rx="12" ry="9" fill="#23201b" transform="rotate(-20 200 240)"/>
+  <line x1="211" y1="238" x2="211" y2="168" stroke="#23201b" stroke-width="3"/>
+  <ellipse cx="280" cy="210" rx="12" ry="9" fill="#23201b" transform="rotate(-20 280 210)"/>
+  <line x1="291" y1="208" x2="291" y2="138" stroke="#23201b" stroke-width="3"/>
+  <path d="M470 168 l40 44 l-30 26 l40 48 q-40 -30 -46 -12 q-8 -40 24 -40 l-40 -48 l30 -26 l-40 -44 q40 30 46 12 q8 40 -24 40 Z" fill="#9a3b2e"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">the quiet you were sitting in is the piece</text>
+</svg>

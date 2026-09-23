@@ -22,6 +22,10 @@ course keeps landing on, and this week we argue it head on instead of
 taking theology's or painting's word for it. What did the cut ending cost,
 and what did it buy?
 
+![An iceberg in cross section, a small tip above a marked waterline and a much larger mass below it, standing for the story stated against the story left unwritten.](../../assets/images/lectures/week-05.svg)
+
+*Only the tip reaches the page; Hemingway's bet is that the reader still feels the mass he cut away below the line.*
+
 Raymond Carver's editor, Gordon Lish, cut some of Carver's stories by more
 than half. The cut versions are the famous ones. This is a harder case than
 Hemingway's. Here the author did not choose his own omission. The editor

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="A syllabus list under a heading, with several of its lines blacked out by redaction bars, standing for the course turning its own praise of subtraction back on what it quietly left out.">
+  <title>What this course left out</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- A course that praised the cut redacts its own syllabus and asks what it declined to teach. -->
+  <rect x="230" y="80" width="180" height="16" fill="#23201b"/>
+  <rect x="230" y="126" width="340" height="12" fill="#d8d2c6"/>
+  <rect x="230" y="160" width="300" height="16" fill="#23201b"/>
+  <rect x="230" y="196" width="360" height="12" fill="#d8d2c6"/>
+  <rect x="230" y="230" width="340" height="16" fill="#23201b"/>
+  <rect x="230" y="266" width="260" height="16" fill="#23201b"/>
+  <rect x="230" y="302" width="320" height="12" fill="#d8d2c6"/>
+  <rect x="230" y="336" width="200" height="16" fill="#9a3b2e"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">the second clause it mostly left unsaid</text>
+</svg>

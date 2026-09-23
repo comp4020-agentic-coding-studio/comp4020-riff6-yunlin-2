@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="A single filing drawer pulled open to reveal that it is completely empty, standing for the file drawer where unpublished null results are quietly kept out of the record.">
+  <title>The file drawer</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The result that found nothing is filed away and never counted; the drawer stays empty. -->
+  <rect x="250" y="110" width="300" height="60" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <rect x="250" y="290" width="300" height="60" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <path d="M230 180 L570 180 L620 320 L180 320 Z" fill="#f6f4ef" stroke="#23201b" stroke-width="2"/>
+  <path d="M245 195 L555 195 L590 300 L210 300 Z" fill="#e6e2da" stroke="#23201b" stroke-width="1.5"/>
+  <rect x="370" y="182" width="60" height="10" rx="5" fill="#23201b"/>
+  <text x="400" y="270" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#9a3b2e" font-style="italic">empty</text>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">an absence with a cost nobody is paying</text>
+</svg>

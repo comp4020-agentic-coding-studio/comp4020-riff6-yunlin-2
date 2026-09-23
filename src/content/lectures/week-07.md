@@ -20,6 +20,10 @@ more familiar case. The FedEx logo hides an arrow in the gap between the
 "E" and the "x." It works because almost nobody sees it on purpose. You
 only feel that the mark points forward.
 
+![A Rubin illusion in ink, two facing profiles whose shared gap forms the silhouette of a vase, so the object is only the negative space the two faces leave between them.](../../assets/images/lectures/week-07.svg)
+
+*The vase is nothing but the room the two profiles decline to fill; the gap is doing all the work.*
+
 Both are "negative space" in the loose studio sense, but they do not do
 the same work. Pawson's emptiness is the point. It is meant to be
 noticed and dwelt in. The FedEx gap is a trick. It is meant to work

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="A tall hanging scroll, almost entirely bare silk, with a single small ink branch in its lower corner, so the wide empty ground carries most of the composition.">
+  <title>Leaving white</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The unpainted silk is the subject; the branch only proves how much emptiness is doing. -->
+  <rect x="320" y="60" width="160" height="10" fill="#23201b"/>
+  <rect x="320" y="374" width="160" height="10" fill="#23201b"/>
+  <rect x="330" y="70" width="140" height="304" fill="#f6f4ef" stroke="#c9c3b6" stroke-width="1"/>
+  <path d="M356 360 q6 -34 4 -60 q-2 -20 -14 -34" fill="none" stroke="#23201b" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M360 320 q14 -6 30 -20" fill="none" stroke="#23201b" stroke-width="2" stroke-linecap="round"/>
+  <path d="M357 300 q-14 -4 -24 -16" fill="none" stroke="#23201b" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="392" cy="298" r="3" fill="#9a3b2e"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">the blank is water, mist and distance at once</text>
+</svg>

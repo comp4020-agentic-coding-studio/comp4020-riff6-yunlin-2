@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="An iceberg seen in cross section, a small tip showing above a marked waterline and a far larger mass extending below it, standing for the story stated versus the story left unwritten.">
+  <title>The iceberg theory</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The reader feels the seven-eighths that was cut, though only the tip is on the page. -->
+  <line x1="60" y1="190" x2="740" y2="190" stroke="#23201b" stroke-width="2"/>
+  <path d="M360 190 l40 -70 l40 70 Z" fill="#23201b"/>
+  <path d="M330 190 l-40 90 l30 70 l90 30 l100 -40 l20 -80 l-30 -60 Z" fill="#c9c3b6" opacity="0.75"/>
+  <path d="M330 190 l-40 90 l30 70 l90 30 l100 -40 l20 -80 l-30 -60 Z" fill="none" stroke="#23201b" stroke-width="2"/>
+  <text x="700" y="182" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#9a3b2e" font-style="italic">stated</text>
+  <text x="700" y="330" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#7a7364" font-style="italic">left unwritten</text>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">most of the story stays under the line</text>
+</svg>

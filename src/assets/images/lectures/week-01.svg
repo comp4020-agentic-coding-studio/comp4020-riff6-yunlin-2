@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="A solid ink panel with the shape of a figure cut out of it, so the figure is described only by the ink that surrounds its absence.">
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The subject is never drawn; it exists only as the void the ink leaves. -->
+  <path d="M120 60 H680 V390 H120 Z M400 110 c-42 0 -70 32 -70 74 0 30 16 50 34 62 -58 22 -96 66 -96 132 v12 h264 v-12 c0 -66 -38 -110 -96 -132 18 -12 34 -32 34 -62 0 -42 -28 -74 -70 -74 Z" fill="#23201b" fill-rule="evenodd"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">described only by what surrounds it</text>
+</svg>

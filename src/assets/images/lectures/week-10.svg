@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="A vertical list of candidate options with every entry struck out except one, which is circled, showing a conclusion reached by ruling out alternatives rather than building toward it.">
+  <title>Proof by elimination</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The reductio rules out every alternative until only one option can still be standing. -->
+  <g>
+    <rect x="300" y="86" width="200" height="14" fill="#d8d2c6"/>
+    <line x1="290" y1="93" x2="510" y2="93" stroke="#23201b" stroke-width="3"/>
+    <rect x="300" y="136" width="200" height="14" fill="#d8d2c6"/>
+    <line x1="290" y1="143" x2="510" y2="143" stroke="#23201b" stroke-width="3"/>
+    <rect x="300" y="186" width="200" height="14" fill="#d8d2c6"/>
+    <line x1="290" y1="193" x2="510" y2="193" stroke="#23201b" stroke-width="3"/>
+    <rect x="300" y="236" width="200" height="14" fill="#23201b"/>
+    <rect x="286" y="222" width="228" height="42" fill="none" stroke="#9a3b2e" stroke-width="3" rx="21"/>
+    <rect x="300" y="286" width="200" height="14" fill="#d8d2c6"/>
+    <line x1="290" y1="293" x2="510" y2="293" stroke="#23201b" stroke-width="3"/>
+    <rect x="300" y="336" width="200" height="14" fill="#d8d2c6"/>
+    <line x1="290" y1="343" x2="510" y2="343" stroke="#23201b" stroke-width="3"/>
+  </g>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">only one option can still be standing</text>
+</svg>

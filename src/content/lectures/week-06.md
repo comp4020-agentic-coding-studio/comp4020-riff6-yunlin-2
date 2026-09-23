@@ -19,6 +19,10 @@ cut fell, because the whole system is built to make that question feel
 beside the point. The smoothness costs you the join. It buys you a story
 you never have to look away from.
 
+![Two film frames with sprocket holes butted together at a single faint vertical seam, the join between them almost invisible so the cut hides inside the story.](../../assets/images/lectures/week-06.svg)
+
+*The seam is drawn as faintly as the eye will allow, because continuity editing spends a century making sure you never find it.*
+
 The Soviet montage tradition does the opposite on purpose. Eisenstein
 wanted the clash between two shots to be the meaning, not something to
 smooth over. The lecture uses the Kuleshov effect to show why this

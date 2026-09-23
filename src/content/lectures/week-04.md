@@ -20,6 +20,10 @@ piece becomes whatever the room does instead. A cough, a chair, the air
 vent. The quiet you were sitting in the whole time turns out to be the
 piece.
 
+![A five-line musical staff carrying only two small notes and one large rest glyph, where the rest fills far more of the bar than the sounded notes do.](../../assets/images/lectures/week-04.svg)
+
+*The rest is written and counted as carefully as any note; here it is given more of the bar than the sound.*
+
 The studio exercise this week asks for a thirty-second piece with more
 rest than sound, plus one paragraph defending where each rest falls. "I
 ran out of ideas" and "the rest is where the audience notices what they

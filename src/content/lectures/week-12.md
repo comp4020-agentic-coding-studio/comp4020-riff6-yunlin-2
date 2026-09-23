@@ -20,6 +20,10 @@ restraint is good practice should notice when it keeps picking the
 examples that fit. This lecture is co-taught on purpose, so the two of us
 can disagree about it on the record.
 
+![A syllabus list under a heading with several of its lines blacked out by redaction bars, standing for the course turning its own praise of subtraction back on what it quietly left out.](../../assets/images/lectures/week-12.svg)
+
+*The course redacts its own syllabus at the end, asking what the thesis conveniently declined to teach.*
+
 Two counter-cases sit on the table. First, maximalist art that wins by
 refusing to leave anything out, like a Kehinde Wiley portrait or a
 Bollywood musical number. Second, the plain fact that most bad, lazy work

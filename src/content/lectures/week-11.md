@@ -21,6 +21,10 @@ anything. It is just declining to count it, and the numbers still add up.
 A political speech can name only the opponent's plan and never its own.
 It persuades by omission while looking like a complete argument.
 
+![A large speech bubble holding no words at all except a trailing ellipsis, so the argument persuades by what it declines to say rather than by anything printed inside it.](../../assets/images/lectures/week-11.svg)
+
+*An argument whose force depends on what it refuses to say is a redaction with the black bars taken off; the bubble is left empty on purpose.*
+
 This week is the direct rehearsal for the final assessment. An argument
 whose force depends on what it refuses to say is a redaction with the
 black bars taken off. It is the same move as everything in weeks 2

@@ -20,6 +20,10 @@ blank does work that no brushstroke could. It reads as water, as mist, and
 as distance, and it stays all three at once because the painter never made
 it choose.
 
+![A tall hanging scroll of almost entirely bare silk, with a single small ink branch in its lower corner, so the wide empty ground carries most of the composition.](../../assets/images/lectures/week-03.svg)
+
+*The bare silk is not the background behind the branch; it is the water, the mist and the distance the painter declined to settle.*
+
 We saw the same move last week in theology. The unsayable God and the
 unpainted silk both refuse to settle on one fixed content. Both claim the
 refusal is more true, not just more humble. So what does the blank cost?

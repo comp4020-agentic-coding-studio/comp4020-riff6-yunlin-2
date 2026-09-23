@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Five ruled lines of text, four of them struck through with a single horizontal stroke, and the middle line left entirely blank so the empty line reads as the truest of the five.">
+  <title>Saying by unsaying</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- Each positive sentence is written and then denied; the one left blank is left unsaid. -->
+  <rect x="200" y="96" width="400" height="14" fill="#d8d2c6"/>
+  <line x1="188" y1="103" x2="612" y2="103" stroke="#23201b" stroke-width="3"/>
+  <rect x="200" y="146" width="360" height="14" fill="#d8d2c6"/>
+  <line x1="188" y1="153" x2="572" y2="153" stroke="#23201b" stroke-width="3"/>
+  <line x1="188" y1="223" x2="612" y2="223" stroke="#c9c3b6" stroke-width="1" stroke-dasharray="4 6"/>
+  <rect x="200" y="286" width="380" height="14" fill="#d8d2c6"/>
+  <line x1="188" y1="293" x2="592" y2="293" stroke="#23201b" stroke-width="3"/>
+  <rect x="200" y="336" width="330" height="14" fill="#d8d2c6"/>
+  <line x1="188" y1="343" x2="542" y2="343" stroke="#9a3b2e" stroke-width="3"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">the truest line is the one left unsaid</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="A Rubin illusion in ink, two facing profiles whose shared gap forms the silhouette of a vase, so the object is nothing but the negative space the two faces leave between them.">
+  <title>Negative space</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The vase is only the room the two profiles decline to fill. -->
+  <path d="M250 70 L250 380 L360 380 C360 340 320 330 320 300 C320 275 345 260 345 225 C345 190 320 175 320 150 C320 120 345 105 345 70 Z" fill="#23201b"/>
+  <path d="M550 70 L550 380 L440 380 C440 340 480 330 480 300 C480 275 455 260 455 225 C455 190 480 175 480 150 C480 120 455 105 455 70 Z" fill="#23201b"/>
+  <text x="400" y="230" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#9a3b2e" font-style="italic">vase</text>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">the shape is the gap between two faces</text>
+</svg>

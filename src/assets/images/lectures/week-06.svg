@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Two film frames with sprocket holes butted against each other at a single faint vertical seam, the join between them almost invisible, so the cut hides inside the story.">
+  <title>The invisible cut</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- Continuity editing spends a century hiding the join; the seam is meant not to be found. -->
+  <rect x="140" y="150" width="230" height="150" fill="none" stroke="#23201b" stroke-width="2"/>
+  <rect x="430" y="150" width="230" height="150" fill="none" stroke="#23201b" stroke-width="2"/>
+  <g fill="#23201b">
+    <rect x="150" y="130" width="14" height="10"/><rect x="180" y="130" width="14" height="10"/><rect x="210" y="130" width="14" height="10"/><rect x="240" y="130" width="14" height="10"/><rect x="270" y="130" width="14" height="10"/><rect x="300" y="130" width="14" height="10"/><rect x="330" y="130" width="14" height="10"/>
+    <rect x="150" y="310" width="14" height="10"/><rect x="180" y="310" width="14" height="10"/><rect x="210" y="310" width="14" height="10"/><rect x="240" y="310" width="14" height="10"/><rect x="270" y="310" width="14" height="10"/><rect x="300" y="310" width="14" height="10"/><rect x="330" y="310" width="14" height="10"/>
+    <rect x="440" y="130" width="14" height="10"/><rect x="470" y="130" width="14" height="10"/><rect x="500" y="130" width="14" height="10"/><rect x="530" y="130" width="14" height="10"/><rect x="560" y="130" width="14" height="10"/><rect x="590" y="130" width="14" height="10"/><rect x="620" y="130" width="14" height="10"/>
+    <rect x="440" y="310" width="14" height="10"/><rect x="470" y="310" width="14" height="10"/><rect x="500" y="310" width="14" height="10"/><rect x="530" y="310" width="14" height="10"/><rect x="560" y="310" width="14" height="10"/><rect x="590" y="310" width="14" height="10"/><rect x="620" y="310" width="14" height="10"/>
+  </g>
+  <line x1="400" y1="150" x2="400" y2="300" stroke="#9a3b2e" stroke-width="1" stroke-dasharray="2 8"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">a join you were built never to notice</text>
+</svg>

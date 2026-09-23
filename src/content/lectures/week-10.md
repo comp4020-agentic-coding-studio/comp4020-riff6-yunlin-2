@@ -18,6 +18,10 @@ load-bearing. Occam's razor is the same instinct made general. Prefer the
 account that needs the fewest assumptions, not because simpler is prettier,
 but because every extra assumption is one more thing that could be wrong.
 
+![A vertical list of candidate options with every entry struck out except one, which is circled, showing a conclusion reached by ruling out alternatives rather than building toward it.](../../assets/images/lectures/week-10.svg)
+
+*A reductio does not build toward its answer; it rules out every rival until, as here, only one option can still be standing.*
+
 Paul Erdős imagined a book God keeps, holding the most elegant proof of
 every theorem. He called it "The Book". The joke makes plain what this
 course has been circling since week 1. A discipline can share a quiet,

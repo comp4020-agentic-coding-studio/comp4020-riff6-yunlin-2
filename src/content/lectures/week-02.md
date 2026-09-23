@@ -20,6 +20,10 @@ theology that does not end up lying. The Cloud of Unknowing pushed further
 again: not just unsayable, but unthinkable, reached by longing rather than by
 an idea at all.
 
+![Five ruled lines of text, four struck through with a single ink stroke and the middle line left completely blank, so the empty line reads as the truest of the five.](../../assets/images/lectures/week-02.svg)
+
+*The struck lines are every positive word we tried; the blank one is the sentence apophatic theology keeps by refusing to write it.*
+
 This is not a detour into church history. It is the vocabulary the rest of
 the semester borrows. Apophatic means saying by unsaying. Cataphatic means
 saying by saying. Every later week turns out to have its own version of that

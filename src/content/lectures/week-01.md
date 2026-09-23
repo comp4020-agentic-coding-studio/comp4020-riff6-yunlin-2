@@ -20,6 +20,10 @@ at everything else: a scroll, a sentence, a proof, a building, a scene, an
 argument. The bet is simple. The same trick appears whenever a field gets
 serious about restraint, and once you can spot it, you can use it anywhere.
 
+![A solid panel of ink with the shape of a figure cut out of it, so the figure is legible only as the absence the surrounding ink leaves behind.](../../assets/images/lectures/week-01.svg)
+
+*The figure above is never drawn. It is the gap the ink refuses to fill; the whole course in one image.*
+
 Nassim Taleb calls the modern version "subtractive knowledge". We are often
 surer about what fails than about what works, and a lot of real expertise is
 just knowing what to leave out. The semester tests that claim against harder

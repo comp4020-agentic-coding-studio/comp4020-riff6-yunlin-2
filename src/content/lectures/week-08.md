@@ -18,6 +18,10 @@ They dropped the visible fixings, the ornament, and the controls you did
 not need, from designs that used to have them. The object reads as clean
 because you can feel that choice, not because nothing is there.
 
+![The word LESS in large letters beside a minus sign, its final two letters faded and being taken away, so subtraction reads as an action performed rather than a blankness that was always there.](../../assets/images/lectures/week-08.svg)
+
+*Less is a verb here, a thing done to the word; the faded letters keep the shape of what was removed.*
+
 Here is the central distinction. A design that took something out still
 carries the shape of what it removed, the way a scar carries the shape of
 a wound. A design that simply never had the feature was never making an

@@ -20,6 +20,10 @@ finding in it. The cost is not just a few missing papers. The published
 record ends up a biased sample of reality, weighted toward whatever
 happened to work in whichever lab tried it first.
 
+![A single filing drawer pulled open to show that it is completely empty, standing for the file drawer where unpublished null results are quietly kept out of the record.](../../assets/images/lectures/week-09.svg)
+
+*The result that found nothing is filed here and never counted; this is the one absence in the course nobody chose on purpose.*
+
 This is the first week where leaving something out is not a craft choice
 anyone is proud of. It is closer to a structural failure the field is
 still arguing about how to fix, through preregistration, registered
