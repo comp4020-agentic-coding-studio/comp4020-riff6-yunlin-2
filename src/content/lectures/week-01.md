@@ -12,26 +12,28 @@ related:
   - sessions/orientation
 ---
 
-Theologians have a name for describing something only by what it isn't: via
-negativa, the negative way. Pseudo-Dionysius used it for God, because
-anything you say positively about the infinite is already too small. This
-course borrows the move and points it at everything else --- a scroll, a
-sentence, a proof, a building, a scene, an argument --- on the theory that the
-same trick shows up whenever a discipline gets serious about restraint, and
-that noticing it is a transferable skill.
+Theologians have a name for describing something only by what it is not:
+via negativa, the negative way. Pseudo-Dionysius used it for God. Anything
+you say plainly about the infinite is already too small, so he described it
+by ruling things out instead. This course borrows that move and points it
+at everything else: a scroll, a sentence, a proof, a building, a scene, an
+argument. The bet is simple. The same trick appears whenever a field gets
+serious about restraint, and once you can spot it, you can use it anywhere.
 
-Nassim Taleb calls the modern, secular version "subtractive knowledge": we
-are often more certain about what doesn't work than what does, and a lot of
-expertise is really accumulated omission. The semester tests that claim
-against harder cases than Taleb's --- a religious tradition that built an
-entire vocabulary out of negation, centuries before anyone needed the word
-for a diet.
+Nassim Taleb calls the modern version "subtractive knowledge". We are often
+surer about what fails than about what works, and a lot of real expertise is
+just knowing what to leave out. The semester tests that claim against harder
+cases than his, starting with a religious tradition that built a whole
+vocabulary out of negation, centuries before anyone dieted.
+
+Every week asks the same two questions of one cut: what did leaving this out
+cost, and what did it buy? That pair is the course.
 
 ## Outline
 
-- what "via negativa" meant before it meant a diet book
-- the shape of the semester: twelve disciplines, one question each week —
-  what did leaving this out cost, and what did it buy?
-- the three assessments, and why the biggest one asks you to build an
-  argument that depends on what you don't say
+- what "via negativa" meant long before it meant a diet book
+- the shape of the semester: twelve fields, one question each week, cost
+  and gain
+- the three assessments, and why the largest one is built on what you do
+  not say
 - what to bring to Wednesday's seminar

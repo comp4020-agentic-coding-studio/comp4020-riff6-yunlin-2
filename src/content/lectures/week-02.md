@@ -8,21 +8,22 @@ week: 2
 date: 2027-03-01
 teachers:
   - marisol-quaye
+slides: /decks/week-02/
 ---
 
-Pseudo-Dionysius's move, formalised: God is not good, not wise, not
-existent --- not because these are false, but because any word drawn from
-creation is too small for what it's describing, and saying so is more
-accurate than reaching for a bigger word. Maimonides ran the same
-argument through Aristotelian logic seven centuries later and called it
-the only theology that doesn't eventually lie. The Cloud of Unknowing took
-it further still: not just unsayable, but unthinkable, approached by
-"a dart of longing love" rather than an idea at all.
+Pseudo-Dionysius's move, put plainly: God is not good, not wise, not real.
+Not because those words are false, but because every word we own is borrowed
+from the created world, and so is too small for what it describes. Saying so
+is more honest than reaching for a bigger word. Maimonides ran the same
+argument through strict logic seven centuries later and called it the only
+theology that does not end up lying. The Cloud of Unknowing pushed further
+again: not just unsayable, but unthinkable, reached by longing rather than by
+an idea at all.
 
-The lecture isn't a detour into religious history --- it's the
-vocabulary the rest of the semester borrows. "Apophatic" (saying by
-unsaying) versus "cataphatic" (saying by saying) is the pair every later
-week's discipline turns out to have its own local version of.
+This is not a detour into church history. It is the vocabulary the rest of
+the semester borrows. Apophatic means saying by unsaying. Cataphatic means
+saying by saying. Every later week turns out to have its own version of that
+pair, and naming it here saves us explaining it ten more times.
 
 ## Outline
 

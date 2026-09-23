@@ -20,8 +20,58 @@ const title = `Week ${lecture.data.week}: ${lecture.data.title}`;
 
 <ContentLayout title={title} description={lecture.data.description} {...siteConfig}>
   <p><strong>{formatCourseDate(lecture.data.date)}</strong></p>
-  {lecture.data.slides && <p><a href={withBase(lecture.data.slides)}>Open the slides</a></p>}
+  {
+    lecture.data.slides && (
+      <figure class="deck-embed">
+        <div class="deck-embed__frame">
+          <iframe
+            src={withBase(lecture.data.slides)}
+            title={`Slides for ${title}`}
+            loading="lazy"
+            allowfullscreen
+          />
+        </div>
+        <figcaption class="deck-embed__caption">
+          The lecture, embedded. Use the arrow keys inside the deck, or{" "}
+          <a href={withBase(lecture.data.slides)}>open it in full screen</a>.
+        </figcaption>
+      </figure>
+    )
+  }
   <Content />
   <TeachingTeam teachers={lecture.data.teachers} />
   <RelatedContent entry={lecture} collections={graphCollections} />
 </ContentLayout>
+
+<style>
+  /* The deck lives on the page now, not behind a link. A 16:9 box keeps the
+     embedded Reveal deck from collapsing, and the fallback link below it is
+     the accessible way out to a full-screen view. */
+  .deck-embed {
+    margin: 2rem 0;
+  }
+
+  .deck-embed__frame {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: 1px solid var(--at-color-border, rgba(128, 128, 128, 0.3));
+    border-radius: 0.5rem;
+    overflow: hidden;
+    background: #111;
+  }
+
+  .deck-embed__frame iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  .deck-embed__caption {
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+    opacity: 0.75;
+  }
+</style>
