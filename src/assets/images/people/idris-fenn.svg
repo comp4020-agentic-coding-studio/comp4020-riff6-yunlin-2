@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="An ink portrait plate: a frontal head read as the blank space carved from a mass of ink, with a single small film frame set where an eye would be.">
+  <title>The editor's portrait: a face made of negative space, marked by one honest film frame.</title>
+  <rect width="600" height="600" fill="#efece7"/>
+  <rect x="20" y="20" width="560" height="560" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The face is the blank oval carved out of the ink field: the head read as negative space. -->
+  <path d="M150 92 H450 V430 H150 Z M300 122 C362 122 402 188 402 264 C402 344 360 404 300 404 C240 404 198 344 198 264 C198 188 238 122 300 122 Z" fill="#23201b" fill-rule="evenodd"/>
+  <path d="M158 512 C158 452 226 420 300 420 C374 420 442 452 442 512 Z" fill="#23201b"/>
+  <!-- The distinguishing motif: a small film frame, the cut you can point to. -->
+  <g fill="none" stroke="#9a3b2e" stroke-width="3">
+    <rect x="276" y="238" width="48" height="52"/>
+    <rect x="266" y="244" width="6" height="8"/>
+    <rect x="266" y="262" width="6" height="8"/>
+    <rect x="266" y="280" width="6" height="8"/>
+    <rect x="328" y="244" width="6" height="8"/>
+    <rect x="328" y="262" width="6" height="8"/>
+    <rect x="328" y="280" width="6" height="8"/>
+  </g>
+  <text x="300" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#7a7364" font-style="italic">the cut you can point to</text>
+</svg>

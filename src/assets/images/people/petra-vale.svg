@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="An ink portrait plate: a frontal head read as the blank space carved from a mass of ink, with a single minus sign set where an eye would be.">
+  <title>The hoarder's portrait: a face emptied to negative space, marked by one deliberate minus.</title>
+  <rect width="600" height="600" fill="#efece7"/>
+  <rect x="20" y="20" width="560" height="560" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The face is the blank oval carved out of the ink field: the head read as negative space. -->
+  <path d="M150 92 H450 V430 H150 Z M300 120 C366 120 404 190 404 266 C404 346 358 406 300 406 C242 406 196 346 196 266 C196 190 234 120 300 120 Z" fill="#23201b" fill-rule="evenodd"/>
+  <path d="M160 512 C160 450 228 418 300 418 C372 418 440 450 440 512 Z" fill="#23201b"/>
+  <!-- The distinguishing motif: a minus sign, subtraction performed as an action. -->
+  <rect x="266" y="256" width="68" height="14" fill="#9a3b2e"/>
+  <text x="300" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#7a7364" font-style="italic">less is a verb</text>
+</svg>
