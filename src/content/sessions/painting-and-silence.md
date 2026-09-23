@@ -19,6 +19,10 @@ each, what the blank silk is doing and what the musical rest is doing.
 Bring both sentences on paper --- you'll be asked to defend the difference
 between them, not just the similarity.
 
+![On the left a single tapering ink brushstroke stands alone on empty silk; on the right a large musical rest glyph sits on a short stave, the two omissions set side by side.](../../assets/images/sessions/painting-and-silence.svg)
+
+*The blank silk and the rest, put next to each other so the seminar can argue whether they are the same move.*
+
 ## In the seminar
 
 We put a projected scroll detail next to a recording of a rest-heavy

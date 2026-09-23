@@ -18,6 +18,10 @@ Bring your Commonplace Book close to submission-ready. This is the last
 seminar before it's due, and the workshop half of the session is your
 last structured chance to find gaps in it before marking does.
 
+![A short paragraph rendered as rows of solid ink lines standing in for text, with the final line left blank and marked only by a faint dotted rule.](../../assets/images/sessions/the-sentence-not-written.svg)
+
+*Hemingway's iceberg in one plate: the paragraph holds, and the last line is the one deliberately left off.*
+
 ## In the seminar
 
 First half: the Hemingway/Lish argument from the lecture, continued ---

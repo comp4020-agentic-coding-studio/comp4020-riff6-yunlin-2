@@ -18,6 +18,10 @@ No reading; bring headphones. The session opens with two cuts of the
 same short scene, one continuity-edited and one Kuleshov-style, and you
 watch both cold before anyone tells you which is which.
 
+![A strip of film with sprocket holes along both edges; two frames meet at a jagged seam where the cut falls, one frame holding a figure and the other left empty.](../../assets/images/sessions/the-cut.svg)
+
+*Two cuts of the same scene meet at the seam; what each one leaves out is the whole discussion.*
+
 ## In the seminar
 
 We watch both cuts, then argue about what each one made you feel that

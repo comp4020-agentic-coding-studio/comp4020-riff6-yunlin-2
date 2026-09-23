@@ -16,6 +16,10 @@ related:
 Bring one thing you made --- anything finished, in any medium --- and be
 ready to name one part of it you thought about removing.
 
+![A magnifying glass held over an empty page, its lens circling a blank space where nothing has been drawn, with a single small accent mark almost lost inside it.](../../assets/images/sessions/orientation.svg)
+
+*The warm-up is exactly this: putting the lens on the space where something is missing.*
+
 ## In the seminar
 
 We go around the room once: what you brought, and the part you thought

@@ -19,6 +19,10 @@ Bring a one-paragraph pitch of your final project's argument and, most
 importantly, a one-sentence statement of the single thing it depends on
 not saying.
 
+![A single horizontal ink line drawn across the plate that thins as it goes and stops well short of the right border, the gap after it left empty.](../../assets/images/sessions/the-limits-of-restraint.svg)
+
+*A line held back until it nearly vanishes; the closing question is where restraint stops being a virtue.*
+
 ## In the seminar
 
 Everyone pitches in two minutes, and the room's only job is to try to

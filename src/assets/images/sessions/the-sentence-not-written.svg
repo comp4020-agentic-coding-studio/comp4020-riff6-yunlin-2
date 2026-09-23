@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="A short paragraph rendered as rows of solid ink lines standing in for text; the final line is left blank, marked only by a faint dotted rule, showing the sentence that was cut before it was written.">
+  <title>A paragraph with its last line unwritten</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- Full lines of "text" as ink bars. -->
+  <g fill="#23201b">
+    <rect x="180" y="110" width="440" height="12"/>
+    <rect x="180" y="150" width="440" height="12"/>
+    <rect x="180" y="190" width="410" height="12"/>
+    <rect x="180" y="230" width="440" height="12"/>
+    <rect x="180" y="270" width="330" height="12"/>
+  </g>
+  <!-- The final line: not written. A faint dotted rule where it would sit. -->
+  <line x1="180" y1="316" x2="470" y2="316" stroke="#9a3b2e" stroke-width="2" stroke-dasharray="3 9"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">the strongest line is the one left off the page</text>
+</svg>

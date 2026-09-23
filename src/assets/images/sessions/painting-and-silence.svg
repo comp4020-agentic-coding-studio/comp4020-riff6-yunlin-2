@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="On the left a single tapering ink brushstroke stands alone on empty silk; on the right a large musical rest glyph sits on a short stave, the two omissions set side by side for comparison.">
+  <title>A brushstroke beside a musical rest</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- Left: one brushstroke on otherwise blank silk (Ni Zan). -->
+  <path d="M170 90 C150 170 158 250 176 320 C182 342 192 356 206 362 C190 350 186 330 188 300 C192 220 196 150 190 96 C188 88 176 84 170 90 Z" fill="#23201b"/>
+  <!-- A faint divide between the two disciplines. -->
+  <line x1="400" y1="70" x2="400" y2="360" stroke="#c9c3b6" stroke-width="2" stroke-dasharray="4 8"/>
+  <!-- Right: a stave with a large quarter-rest glyph (Cage). -->
+  <line x1="500" y1="150" x2="700" y2="150" stroke="#23201b" stroke-width="2"/>
+  <line x1="500" y1="185" x2="700" y2="185" stroke="#23201b" stroke-width="2"/>
+  <line x1="500" y1="220" x2="700" y2="220" stroke="#23201b" stroke-width="2"/>
+  <line x1="500" y1="255" x2="700" y2="255" stroke="#23201b" stroke-width="2"/>
+  <line x1="500" y1="290" x2="700" y2="290" stroke="#23201b" stroke-width="2"/>
+  <path d="M588 150 L612 188 L590 210 L614 246 C598 236 582 240 578 256 C574 240 588 226 602 230 L582 200 L604 180 L586 152 Z" fill="#9a3b2e"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">the same silence in two media, or two different ones</text>
+</svg>

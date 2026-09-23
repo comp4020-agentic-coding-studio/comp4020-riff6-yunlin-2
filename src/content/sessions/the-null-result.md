@@ -20,6 +20,10 @@ results was tracked down and folded back in. Come with an opinion on
 whether the original published literature was wrong, or just
 incomplete, and whether that distinction matters.
 
+![A filing cabinet with its lower drawer pulled fully open and completely empty, the drawers above it staying shut.](../../assets/images/sessions/the-null-result.svg)
+
+*The file drawer of the case study, opened to show exactly the results that never made it into print.*
+
 ## In the seminar
 
 We argue the case study, then turn it back on the course itself: has

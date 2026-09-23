@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="A magnifying glass held over an empty page, its lens circling a blank space where nothing has been drawn, as if the omission itself were the thing worth examining.">
+  <title>A magnifier over a blank</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The page below is empty; the exercise is noticing what is not there. -->
+  <rect x="150" y="70" width="360" height="270" fill="none" stroke="#23201b" stroke-width="3"/>
+  <!-- The magnifier lens, circling nothing in particular. -->
+  <circle cx="470" cy="230" r="96" fill="#efece7" stroke="#23201b" stroke-width="6"/>
+  <circle cx="470" cy="230" r="80" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <line x1="538" y1="298" x2="612" y2="372" stroke="#23201b" stroke-width="14" stroke-linecap="round"/>
+  <!-- A single accent tick: the one mark the eye is meant to miss. -->
+  <line x1="452" y1="230" x2="488" y2="230" stroke="#9a3b2e" stroke-width="4" stroke-linecap="round"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">learning to look at what was left out</text>
+</svg>

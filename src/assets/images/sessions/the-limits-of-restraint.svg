@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="A single horizontal ink line drawn across the plate that stops well short of the right border, the gap left after it growing faint, showing restraint carried until almost nothing remains.">
+  <title>A line that stops short of the edge</title>
+  <rect width="800" height="450" fill="#efece7"/>
+  <rect x="16" y="16" width="768" height="418" fill="none" stroke="#c9c3b6" stroke-width="2"/>
+  <!-- The line begins confident and thins as restraint is pushed too far. -->
+  <path d="M110 215 L430 215" fill="none" stroke="#23201b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M430 215 L520 215" fill="none" stroke="#23201b" stroke-width="4" stroke-linecap="round"/>
+  <!-- The last faint reach, stopping well short of the frame. -->
+  <path d="M520 215 L575 215" fill="none" stroke="#9a3b2e" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 10"/>
+  <!-- The unreached edge, marked only by the border already present. -->
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#7a7364" font-style="italic">restraint carried one stroke too far</text>
+</svg>
