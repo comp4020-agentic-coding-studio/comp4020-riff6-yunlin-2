@@ -1,7 +1,7 @@
 ---
 title: Via negativa
 description:
-  The opening lecture — the thesis for the whole semester, stated once, and
+  The opening lecture, stating the thesis for the whole semester once, and
   the case for taking a course built entirely out of other people's cuts
 week: 1
 date: 2027-02-22
