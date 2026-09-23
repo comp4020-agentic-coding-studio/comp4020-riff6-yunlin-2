@@ -5,26 +5,27 @@ description:
   empty silk is doing when it's doing more than half the composition
 week: 3
 date: 2027-03-08
+slides: /decks/week-03/
 teachers:
   - marisol-quaye
 related:
   - sessions/painting-and-silence
 ---
 
-Ni Zan's riverbank scrolls are mostly paper: a few trees, a distant bank,
-almost never a person, and a wide unpainted middle that isn't background
-so much as the subject. Literati painting theory has a word for this ---
-liubai, "leaving white" --- and it isn't a technique for saving ink. The
-blank is doing compositional work no brushstroke could: it's the water,
-the mist, the distance, and it stays all three at once because it was
-never forced to choose.
+Ni Zan's riverbank scrolls are mostly bare paper. A few trees, a far bank,
+almost never a person, and a wide unpainted middle. That middle is not the
+background. It is the subject. Literati painters have a word for it,
+liubai, which means "leaving white". It is not a trick for saving ink. The
+blank does work that no brushstroke could. It reads as water, as mist, and
+as distance, and it stays all three at once because the painter never made
+it choose.
 
-Compare the same logic in a different medium already covered: apophatic
-theology's unsayable God and literati painting's unpainted silk both
-refuse to commit to a specific positive content, and both claim the
-refusal is more accurate, not just more modest. The lecture asks whether
-that's the same claim twice or two different claims that happen to look
-alike.
+We saw the same move last week in theology. The unsayable God and the
+unpainted silk both refuse to settle on one fixed content. Both claim the
+refusal is more true, not just more humble. So what does the blank cost?
+A clear picture of any single thing. And what does it buy? All of them at
+once. The lecture asks whether this is one idea showing up twice, or two
+ideas that only happen to look alike.
 
 ## Outline
 

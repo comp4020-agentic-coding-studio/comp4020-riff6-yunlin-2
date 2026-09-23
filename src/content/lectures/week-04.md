@@ -5,25 +5,26 @@ description:
   four minutes and thirty-three seconds of nothing being played on purpose
 week: 4
 date: 2027-03-15
+slides: /decks/week-04/
 teachers:
   - idris-fenn
 related:
   - sessions/painting-and-silence
 ---
 
-A rest isn't the absence of music; it's a note with the volume argument
-already settled in music's favour without playing anything. Every score
-already treats silence as notated content, timed as precisely as any
-pitch. John Cage's 4'33" just refused to let that fact stay in the
-background: three movements, no intentional sound, and the piece turns
-out to be whatever the room does instead --- a cough, a chair, the
-ventilation.
+A rest is not the absence of music. It is silence, written down and timed
+as carefully as any note. Every score already treats a rest this way. It
+has a length, and the player counts it. John Cage's 4'33" just refused to
+let that fact hide. Three movements, no sound played on purpose, and the
+piece becomes whatever the room does instead. A cough, a chair, the air
+vent. The quiet you were sitting in the whole time turns out to be the
+piece.
 
 The studio exercise this week asks for a thirty-second piece with more
-rest than sound, and a one-paragraph defence of exactly where each rest
-falls. "I ran out of ideas" is a different answer from "the rest is where
-the audience is meant to notice what they just heard," and only one of
-those is a cut that earned its keep.
+rest than sound, plus one paragraph defending where each rest falls. "I
+ran out of ideas" and "the rest is where the audience notices what they
+just heard" are different answers. Only one is a cut that earned its keep.
+So the exercise makes you say what the silence costs and what it buys.
 
 ## Outline
 

@@ -5,6 +5,7 @@ description:
   fiction that took the metaphor as a literal compositional method
 week: 5
 date: 2027-03-22
+slides: /decks/week-05/
 teachers:
   - marisol-quaye
 related:
@@ -12,19 +13,20 @@ related:
   - assessments/commonplace-book-of-cuts
 ---
 
-Hemingway's own account: he cut the real ending of "Out of Season"
-entirely --- a suicide --- on the theory that a reader feels the missing
-part even unstated, "if a writer of prose knows enough of what he is
-writing about." Whether that's true or a writer's after-the-fact justification
-for an editorial accident is exactly the kind of question this course
-keeps landing on, and this week is where we argue it directly rather than
-taking either theology or painting's word for it.
+Hemingway told it this way. He cut the real ending of "Out of Season", a
+suicide, out of the story completely. His theory was that a reader still
+feels the missing part, even when it is never stated, "if a writer of prose
+knows enough of what he is writing about." Is that true, or is it a neat
+excuse made after the fact? That is exactly the kind of question this
+course keeps landing on, and this week we argue it head on instead of
+taking theology's or painting's word for it. What did the cut ending cost,
+and what did it buy?
 
-Raymond Carver's editor Gordon Lish cut some of Carver's stories by more
-than half, and the results are the ones anthologised. The lecture treats
-that as a harder case than Hemingway's --- not an author choosing his own
-omission, but an editor making the cut for him, and the story getting
-better by a standard neither of them agreed on in advance.
+Raymond Carver's editor, Gordon Lish, cut some of Carver's stories by more
+than half. The cut versions are the famous ones. This is a harder case than
+Hemingway's. Here the author did not choose his own omission. The editor
+made the cut for him, and the story got better by a standard neither of
+them had agreed on first.
 
 Your first assessment, the Commonplace Book, is due at the end of this
 week: it asks you to have already been collecting cuts like these before

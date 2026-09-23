@@ -5,26 +5,29 @@ description:
   from Pawson's monastery to a logo that draws an arrow out of two letters
 week: 7
 date: 2027-04-05
+slides: /decks/week-07/
 teachers:
   - idris-fenn
 related:
   - sessions/the-cut
 ---
 
-John Pawson's Nový Dvůr monastery is close to an argument that emptiness
-is itself a building material: thick walls, plain light, almost no
-furniture, and monks who chose the architect specifically because his
-other work already looked like a place built for silence. The lecture
-sets that against a more familiar case --- the FedEx logotype's hidden
-arrow, sitting in the gap between the "E" and "x," which works precisely
-because almost nobody consciously sees it, only feels that the mark
-reads as forward motion.
+John Pawson's Nový Dvůr monastery comes close to arguing that emptiness
+is itself a building material. It has thick walls, plain light, and
+almost no furniture. The monks chose him because his other work already
+looked like a place built for silence. The lecture sets that against a
+more familiar case. The FedEx logo hides an arrow in the gap between the
+"E" and the "x." It works because almost nobody sees it on purpose. You
+only feel that the mark points forward.
 
-Both are "negative space" in the loose design-studio sense, but the
-lecture pushes on whether they're doing the same kind of work: Pawson's
-emptiness is the point, meant to be dwelt in; the FedEx gap is a trick,
-meant to work without being noticed at all. Confusing those two is where
-student negative-space projects usually go wrong.
+Both are "negative space" in the loose studio sense, but they do not do
+the same work. Pawson's emptiness is the point. It is meant to be
+noticed and dwelt in. The FedEx gap is a trick. It is meant to work
+without being noticed at all. Leaving the room empty cost Pawson the
+comfort of furniture, but it bought a place you can sit in silence.
+Hiding the arrow cost FedEx a mark anyone could point to, but it bought
+a logo that feels like motion. Confusing those two jobs is where student
+negative-space projects usually go wrong.
 
 ## Outline
 
